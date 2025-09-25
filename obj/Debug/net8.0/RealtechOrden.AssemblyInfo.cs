@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealtechOrden")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4690aaa7f56e3665b641799f50bcfb45f08acb5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealtechOrden")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealtechOrden")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
